@@ -10,6 +10,9 @@
         <mxCell id="xfxczLTc0W3If0-bYOlU-3" value="TRABALHAR_PARA" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="136" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xfxczLTc0W3If0-bYOlU-4" value="FUNCIONÁRIO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
